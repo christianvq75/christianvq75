@@ -1,16 +1,30 @@
-### Hi there 👋
+# Oi, meu nome é Christian 👋
 
-<!--
-**christianvq75/christianvq75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência de Dados, aprendendo a combinar minha experiência contábil com a ciência de dados.
 
-Here are some ideas to get you started:
+* 🖥️ Atualmente mais focado em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline">
+&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
+</div>
+
+##
+
+### Você também me encontra em:
+<a href="https://www.linkedin.com/in/christianvqueiroz/">
+<img src="https://img.shields.io/badge/linkedin-230077B5.svg?style-for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://llucaslleall.medium.com/">
+<img src="https://img.shields.io/badge/Medium-12100E?style-for-the-badge&logo=medium&logoColor=white"> </a>
+<a href="https://www.instagram.com/christian_queiroz/">
+<img src="https://img.shields.io/badge/Instagram-FF0000.svg?style-for-the-badge&logo= Instagram&logoColor=white"> </a>
+
+
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=christianvq75&show_icons=true&theme=tokyonight"/>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianvq75&layout=compact" />
+
+</div>
+
