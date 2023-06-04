@@ -27,20 +27,3 @@ Estudante de Ciência de Dados, aprendendo a combinar minha experiência contáb
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianvq75&layout=compact" />
 
 </div>
-##
-
-# Christian Queiroz
-
-[![Letreiro Roxo](https://img.shields.io/badge/-Letreiro%20Roxo-purple)]()
-
-## Sobre mim
-- Nome: Christian Queiroz
-- Idade: 48
-- Localização: Vitória/ES
-
-## Linguagens e Tecnologias
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-orange)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-blue)]()
-[![React](https://img.shields.io/badge/-React-blueviolet)]()
-
