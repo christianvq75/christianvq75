@@ -29,7 +29,7 @@ Alguns dos estudos e documentações que tenho desenvolvido:
 
 | Projeto | Descrição | Tags |
 | :--- | :--- | :--- |
-| **[Ciclo de Vida IAM (JML)](./iam-user-lifecycle-controls)** | Documentação completa de controles de acesso para Joiners, Movers e Leavers. | `GRC` `IAM` `Policies` |
+| **[Ciclo de Vida IAM (JML)](https://github.com/christianvq75/iam-user-lifecycle-controls)** | Documentação completa de controles de acesso para Joiners, Movers e Leavers. | `GRC` `IAM` `Policies` |
 | **Home Lab Security** | Configuração de ambiente de monitoramento com Wazuh e Suricata. | `Blue Team` `SIEM` |
 
 ---
