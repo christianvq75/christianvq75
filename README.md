@@ -1,7 +1,52 @@
-# Oi, meu nome é Christian 👋
+👋 Olá! Eu sou Christian
+💡 Profissional de Tecnologia da Informação com formação em Gestão de TI e pós-graduação em Defesa Cibernética.
+🔐 Entusiasta e pesquisador de Cybersecurity, com foco em Identity and Access Management (IAM), autenticação, controle de acesso e segurança em nuvem.
 
-Estudante de Ciência de Dados, aprendendo a combinar minha experiência contábil com a ciência de dados.
+🧩 Áreas de interesse e especialização
 
+- IAM (Identity and Access Management): Provisionamento, autenticação, autorização, MFA e gerenciamento de ciclo de vida de identidades.
+
+- Cybersecurity e GRC: Políticas de segurança, ISO 27001, NIST, LGPD, e práticas de defesa cibernética.
+
+- Cloud Security: Modelos de segurança em Azure e AWS, conceitos de Zero Trust e automação de acesso.
+
+- Analítica e Automação: Uso de Power BI, SQL e scripts para análise de logs e riscos de segurança.
+
+🧠 Ferramentas e Tecnologias
+🔹 Azure AD / Entra ID
+🔹 AWS Identity Center
+🔹 Fortinet / Palo Alto (básico)
+🔹 SIEM (Splunk, Wazuh, ELK)
+🔹 Linux / Bash / PowerShell
+🔹 Power BI / SQL / Python (básico)
+
+🚀 Objetivos atuais
+
+
+Consolidar experiência prática em IAM e Governança de Identidades.
+
+
+Desenvolver projetos que simulem gestão de acessos corporativos e detecção de ameaças.
+
+
+Obter certificações em trilhas como Microsoft SC-300, CompTIA Security+, e Fortinet NSE.
+
+
+
+📫 Conecte-se comigo
+
+
+🔗 LinkedIn
+
+
+💻 GitHub
+
+
+✉️ E-mail
+
+
+
+⚙️ “Gerenciar identidades é mais do que controle de acesso — é proteger a essência digital de cada organização.”
 * 🖥️ Atualmente mais focado em:
 
 <div style="display: inline">
